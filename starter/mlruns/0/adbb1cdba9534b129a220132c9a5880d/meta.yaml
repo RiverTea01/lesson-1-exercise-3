@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/rigelete/Documents/Ml%20ops%20course/nd0821-c2-build-model-workflow-exercises-master/lesson-1-machine-learning-pipelines/exercises/exercise_3/starter/mlruns/0/adbb1cdba9534b129a220132c9a5880d/artifacts
+end_time: 1719868790195
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: adbb1cdba9534b129a220132c9a5880d
+run_name: luminous-auk-271
+run_uuid: adbb1cdba9534b129a220132c9a5880d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719868234254
+status: 4
+tags: []
+user_id: rigelete

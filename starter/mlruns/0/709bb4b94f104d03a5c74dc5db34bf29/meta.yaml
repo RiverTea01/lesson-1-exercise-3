@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/rigelete/Documents/Ml%20ops%20course/nd0821-c2-build-model-workflow-exercises-master/lesson-1-machine-learning-pipelines/exercises/exercise_3/starter/mlruns/0/709bb4b94f104d03a5c74dc5db34bf29/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 709bb4b94f104d03a5c74dc5db34bf29
+run_name: receptive-calf-787
+run_uuid: 709bb4b94f104d03a5c74dc5db34bf29
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719867981792
+status: 1
+tags: []
+user_id: rigelete
